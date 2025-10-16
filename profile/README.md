@@ -37,7 +37,6 @@ Woodn Company makes it easy to discover, connect, and book appointments with ski
 <p align="center">
   💡 Crafted with care by <b>Woodn Company</b>
 </p>
----
 
 ## 📂 Projects
 
@@ -89,7 +88,7 @@ Woodn Company makes it easy to discover, connect, and book appointments with ski
 - **Release Notes**:
   - 
   - 
-  - 
+  -
 
 #### woodn-pro
 
@@ -97,7 +96,7 @@ Woodn Company makes it easy to discover, connect, and book appointments with ski
 - **Release Notes**:
   - 
   - 
-  - 
+  -
 
 ### Demo (demo) - Demo and new features in pre-release
 
